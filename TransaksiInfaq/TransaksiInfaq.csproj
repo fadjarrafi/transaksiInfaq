@@ -63,6 +63,13 @@
     <Compile Include="MainMenu.Designer.cs">
       <DependentUpon>MainMenu.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\Context\DbContext.cs" />
+    <Compile Include="Model\Entity\Barang.cs" />
+    <Compile Include="Model\Entity\Detail_Keluar.cs" />
+    <Compile Include="Model\Entity\Pemasukan.cs" />
+    <Compile Include="Model\Entity\Pengeluaran.cs" />
+    <Compile Include="Model\Entity\Pengurus.cs" />
+    <Compile Include="Model\Entity\Tabungan.cs" />
     <Compile Include="Pemasukan.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -115,6 +122,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Controller\" />
+    <Folder Include="Model\Repository\" />
+    <Folder Include="View\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

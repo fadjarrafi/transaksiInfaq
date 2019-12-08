@@ -432,7 +432,7 @@
             this.Controls.Add(this.btnKembaliDataPengurus);
             this.Controls.Add(this.tabControl1);
             this.Name = "frmDataPengurus";
-            this.Text = "DataPengurus";
+            this.Text = " ";
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
