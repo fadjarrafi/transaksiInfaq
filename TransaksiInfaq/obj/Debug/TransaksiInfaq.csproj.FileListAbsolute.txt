@@ -1,0 +1,14 @@
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe.config
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.pdb
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csprojAssemblyReference.cache
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.frmLogin.resources
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.frmMainMenu.resources
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.Properties.Resources.resources
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.GenerateResource.cache
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.CoreCompileInputs.cache
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.exe
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.pdb
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.frmDataPengurus.resources
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.frmPemasukan.resources
+E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.frmPengeluaran.resources

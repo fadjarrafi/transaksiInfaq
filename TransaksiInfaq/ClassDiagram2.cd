@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TransaksiInfaq.DataPengurus">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>cSCAAAAAASAIQBCAkACAgwBTIAIAAAACEAAQAQAJDIA=</HashCode>
+      <FileName>DataPengurus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiInfaq.frmLogin">
+    <Position X="0.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAACAAABAAAACAAAACAAAAAAAAADAAAABAACA=</HashCode>
+      <FileName>frmLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiInfaq.MainMenu">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAKAAABAAAACAABACAABAAAAAAACAAEBAAAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiInfaq.Pemasukan">
+    <Position X="6" Y="0.5" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8QDABAAQACAAYBgAhASDkCCGKEoBQEETBAAAApABTok=</HashCode>
+      <FileName>Pemasukan.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiInfaq.Pengeluaran">
+    <Position X="9.5" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>/8CgEYgBwCgQwBAEAAWKEDteMAIiECCCAEAKQTgBBHA=</HashCode>
+      <FileName>Pengeluaran.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiInfaq.Program" Collapsed="true">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiInfaq.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TransaksiInfaq.Properties.Settings" Collapsed="true">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
