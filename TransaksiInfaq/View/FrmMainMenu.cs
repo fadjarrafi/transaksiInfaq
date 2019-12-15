@@ -8,11 +8,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace TransaksiInfaq
+
+namespace TransaksiInfaq.View
 {
-    public partial class frmMainMenu : Form
+    public partial class FrmMainMenu : Form
     {
-        public frmMainMenu()
+        public FrmMainMenu()
         {
             InitializeComponent();
         }
@@ -20,21 +21,21 @@ namespace TransaksiInfaq
         private void BtnDataPengguna_Click(object sender, EventArgs e)
         {
             this.Hide();
-            frmDataPengurus frmDataPengurus = new frmDataPengurus();
+            FrmDataPengurus frmDataPengurus = new FrmDataPengurus();
             frmDataPengurus.ShowDialog();
         }
 
         private void BtnPemasukan_Click(object sender, EventArgs e)
         {
             this.Hide();
-            frmPemasukan frmPemasukan = new frmPemasukan();
+            FrmPemasukan frmPemasukan = new FrmPemasukan();
             frmPemasukan.ShowDialog();
         }
 
         private void BtnPengeluaran_Click(object sender, EventArgs e)
         {
             this.Hide();
-            frmPengeluaran frmPengeluaran = new frmPengeluaran();
+            FrmPengeluaran frmPengeluaran = new FrmPengeluaran();
             frmPengeluaran.ShowDialog();
         }
     }

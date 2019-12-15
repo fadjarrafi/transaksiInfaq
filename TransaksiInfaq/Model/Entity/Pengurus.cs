@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TransaksiInfaq.Model.Entity
 {
-    class Pengurus
+    public class Pengurus
     {
         public string Kode_Pengurus { get; set; }
         public string Nama { get; set; }

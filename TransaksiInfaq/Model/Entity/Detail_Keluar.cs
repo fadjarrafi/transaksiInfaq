@@ -6,10 +6,10 @@ using System.Threading.Tasks;
 
 namespace TransaksiInfaq.Model.Entity
 {
-    class Detail_Keluar
+    public class Detail_Keluar
     {
         public string No_Faktur { get; set; }
-        public string Kode_barang { get; set; }
-        public int Jumlah { get; set; }
+        public string Kode_Barang { get; set; }
+        public string Jumlah { get; set; }
     }
 }

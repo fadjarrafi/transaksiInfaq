@@ -45,24 +45,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DataPengurus.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="DataPengurus.Designer.cs">
-      <DependentUpon>DataPengurus.cs</DependentUpon>
-    </Compile>
-    <Compile Include="frmLogin.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="frmLogin.Designer.cs">
-      <DependentUpon>frmLogin.cs</DependentUpon>
-    </Compile>
-    <Compile Include="MainMenu.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="MainMenu.Designer.cs">
-      <DependentUpon>MainMenu.cs</DependentUpon>
-    </Compile>
     <Compile Include="Model\Context\DbContext.cs" />
     <Compile Include="Model\Entity\Barang.cs" />
     <Compile Include="Model\Entity\Detail_Keluar.cs" />
@@ -70,35 +52,38 @@
     <Compile Include="Model\Entity\Pengeluaran.cs" />
     <Compile Include="Model\Entity\Pengurus.cs" />
     <Compile Include="Model\Entity\Tabungan.cs" />
-    <Compile Include="Pemasukan.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Pemasukan.Designer.cs">
-      <DependentUpon>Pemasukan.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Pengeluaran.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Pengeluaran.Designer.cs">
-      <DependentUpon>Pengeluaran.cs</DependentUpon>
-    </Compile>
+    <Compile Include="Model\Repository\BarangRepository.cs" />
+    <Compile Include="Model\Repository\Detail_KeluarRepository.cs" />
+    <Compile Include="Model\Repository\PemasukanRepository.cs" />
+    <Compile Include="Model\Repository\PengeluaranRepository.cs" />
+    <Compile Include="Model\Repository\PengurusRepository.cs" />
+    <Compile Include="Model\Repository\TabunganRepository.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="DataPengurus.resx">
-      <DependentUpon>DataPengurus.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmLogin.resx">
-      <DependentUpon>frmLogin.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="MainMenu.resx">
-      <DependentUpon>MainMenu.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Pemasukan.resx">
-      <DependentUpon>Pemasukan.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Pengeluaran.resx">
-      <DependentUpon>Pengeluaran.cs</DependentUpon>
-    </EmbeddedResource>
+    <Compile Include="View\FrmDataPengurus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmDataPengurus.Designer.cs">
+      <DependentUpon>FrmDataPengurus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmMainMenu.Designer.cs">
+      <DependentUpon>FrmMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmPemasukan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmPemasukan.Designer.cs">
+      <DependentUpon>FrmPemasukan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FrmPengeluaran.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FrmPengeluaran.Designer.cs">
+      <DependentUpon>FrmPengeluaran.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -108,6 +93,18 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\FrmDataPengurus.resx">
+      <DependentUpon>FrmDataPengurus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmMainMenu.resx">
+      <DependentUpon>FrmMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmPemasukan.resx">
+      <DependentUpon>FrmPemasukan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FrmPengeluaran.resx">
+      <DependentUpon>FrmPengeluaran.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="ClassDiagram1.cd" />
     <None Include="ClassDiagram2.cd" />
     <None Include="Properties\Settings.settings">
@@ -125,8 +122,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controller\" />
-    <Folder Include="Model\Repository\" />
-    <Folder Include="View\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

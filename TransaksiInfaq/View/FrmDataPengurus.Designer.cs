@@ -1,6 +1,6 @@
-﻿namespace TransaksiInfaq
+﻿namespace TransaksiInfaq.View
 {
-    partial class frmDataPengurus
+    partial class FrmDataPengurus
     {
         /// <summary>
         /// Required designer variable.
@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.btnKembaliDataPengurus = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.btnRefreshDataPengurus = new System.Windows.Forms.Button();
@@ -63,12 +64,20 @@
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.btnKembaliDataPengurus = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.SuspendLayout();
+            // 
+            // btnKembaliDataPengurus
+            // 
+            this.btnKembaliDataPengurus.Location = new System.Drawing.Point(12, 404);
+            this.btnKembaliDataPengurus.Name = "btnKembaliDataPengurus";
+            this.btnKembaliDataPengurus.Size = new System.Drawing.Size(126, 23);
+            this.btnKembaliDataPengurus.TabIndex = 16;
+            this.btnKembaliDataPengurus.Text = "Kembali";
+            this.btnKembaliDataPengurus.UseVisualStyleBackColor = true;
             // 
             // tabControl1
             // 
@@ -76,11 +85,11 @@
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Controls.Add(this.tabPage4);
-            this.tabControl1.Location = new System.Drawing.Point(12, 73);
+            this.tabControl1.Location = new System.Drawing.Point(-1, -1);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(737, 388);
-            this.tabControl1.TabIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(801, 403);
+            this.tabControl1.TabIndex = 15;
             // 
             // tabPage1
             // 
@@ -89,7 +98,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(729, 362);
+            this.tabPage1.Size = new System.Drawing.Size(793, 377);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Data Pengurus";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -102,14 +111,13 @@
             this.btnRefreshDataPengurus.TabIndex = 1;
             this.btnRefreshDataPengurus.Text = "Refresh Data";
             this.btnRefreshDataPengurus.UseVisualStyleBackColor = true;
-            this.btnRefreshDataPengurus.Click += new System.EventHandler(this.BtnRefreshDataPengurus_Click);
             // 
             // lvwDataPengurus
             // 
             this.lvwDataPengurus.HideSelection = false;
             this.lvwDataPengurus.Location = new System.Drawing.Point(6, 48);
             this.lvwDataPengurus.Name = "lvwDataPengurus";
-            this.lvwDataPengurus.Size = new System.Drawing.Size(717, 295);
+            this.lvwDataPengurus.Size = new System.Drawing.Size(779, 311);
             this.lvwDataPengurus.TabIndex = 0;
             this.lvwDataPengurus.UseCompatibleStateImageBehavior = false;
             // 
@@ -131,7 +139,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(729, 362);
+            this.tabPage2.Size = new System.Drawing.Size(793, 377);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Masukan Data Pengurus";
             this.tabPage2.UseVisualStyleBackColor = true;
@@ -144,7 +152,6 @@
             this.btnSimpanDataPengurus.TabIndex = 13;
             this.btnSimpanDataPengurus.Text = "Simpan";
             this.btnSimpanDataPengurus.UseVisualStyleBackColor = true;
-            this.btnSimpanDataPengurus.Click += new System.EventHandler(this.BtnSimpanDataPengurus_Click);
             // 
             // rtxtAlamatInsert
             // 
@@ -268,7 +275,7 @@
             this.tabPage3.Controls.Add(this.label12);
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(729, 362);
+            this.tabPage3.Size = new System.Drawing.Size(793, 377);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Edit dan Hapus Data Pengurus";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -281,7 +288,6 @@
             this.btnCariDataPengurus.TabIndex = 28;
             this.btnCariDataPengurus.Text = "Cari";
             this.btnCariDataPengurus.UseVisualStyleBackColor = true;
-            this.btnCariDataPengurus.Click += new System.EventHandler(this.BtnCariDataPengurus_Click);
             // 
             // btnEditDataPengurus
             // 
@@ -291,7 +297,6 @@
             this.btnEditDataPengurus.TabIndex = 27;
             this.btnEditDataPengurus.Text = "Edit";
             this.btnEditDataPengurus.UseVisualStyleBackColor = true;
-            this.btnEditDataPengurus.Click += new System.EventHandler(this.BtnEditDataPengurus_Click);
             // 
             // btnHapusDataPengurus
             // 
@@ -301,7 +306,6 @@
             this.btnHapusDataPengurus.TabIndex = 26;
             this.btnHapusDataPengurus.Text = "Hapus";
             this.btnHapusDataPengurus.UseVisualStyleBackColor = true;
-            this.btnHapusDataPengurus.Click += new System.EventHandler(this.BtnHapusDataPengurus_Click);
             // 
             // rtxtAlamatEdit
             // 
@@ -414,25 +418,15 @@
             this.tabPage4.TabIndex = 3;
             this.tabPage4.UseVisualStyleBackColor = true;
             // 
-            // btnKembaliDataPengurus
-            // 
-            this.btnKembaliDataPengurus.Location = new System.Drawing.Point(20, 472);
-            this.btnKembaliDataPengurus.Name = "btnKembaliDataPengurus";
-            this.btnKembaliDataPengurus.Size = new System.Drawing.Size(126, 23);
-            this.btnKembaliDataPengurus.TabIndex = 14;
-            this.btnKembaliDataPengurus.Text = "Kembali";
-            this.btnKembaliDataPengurus.UseVisualStyleBackColor = true;
-            this.btnKembaliDataPengurus.Click += new System.EventHandler(this.BtnKembaliDataPengurus_Click);
-            // 
-            // frmDataPengurus
+            // FrmDataPengurus
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(775, 507);
+            this.ClientSize = new System.Drawing.Size(800, 437);
             this.Controls.Add(this.btnKembaliDataPengurus);
             this.Controls.Add(this.tabControl1);
-            this.Name = "frmDataPengurus";
-            this.Text = " ";
+            this.Name = "FrmDataPengurus";
+            this.Text = "FrmDataPengurus";
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
@@ -445,6 +439,7 @@
 
         #endregion
 
+        private System.Windows.Forms.Button btnKembaliDataPengurus;
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.Button btnRefreshDataPengurus;
@@ -480,6 +475,5 @@
         private System.Windows.Forms.Label label11;
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.TabPage tabPage4;
-        private System.Windows.Forms.Button btnKembaliDataPengurus;
     }
 }

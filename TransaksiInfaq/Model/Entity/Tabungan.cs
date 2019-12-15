@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TransaksiInfaq.Model.Entity
 {
-    class Tabungan
+    public class Tabungan
     {
         public string No_rekening { get; set; }
         public string Bank { get; set; }

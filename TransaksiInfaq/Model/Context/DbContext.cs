@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+using System.IO;
 using System.Data;
 using System.Data.OleDb;
 
 namespace TransaksiInfaq.Model.Context
 {
-    class DbContext : IDisposable
+    public class DbContext : IDisposable
     {
         private OleDbConnection _conn;
 
@@ -27,7 +28,7 @@ namespace TransaksiInfaq.Model.Context
             {
                 // atur ulang lokasi database yang disesuaikan dengan
                 // lokasi database perpustakaan Anda
-                string dbName = @"E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\Database.mdb";
+                string dbName = Directory.GetCurrentDirectory() + "\\Database\\Infaq.mdb";
 
                 // deklarasi variabel connectionString, ref: https://www.connectionstrings.com/
                 string connectionString = string.Format("Provider=Microsoft.Jet.OLEDB.4.0;Data Source={0}", dbName);

@@ -1,6 +1,6 @@
-﻿namespace TransaksiInfaq
+﻿namespace TransaksiInfaq.View
 {
-    partial class frmPemasukan
+    partial class FrmPemasukan
     {
         /// <summary>
         /// Required designer variable.
@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.btnKembaliPemasukan = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.txtCariLaporanPemasukan = new System.Windows.Forms.TextBox();
@@ -75,7 +76,6 @@
             this.btnRefreshTabungan = new System.Windows.Forms.Button();
             this.btnCariTabungan = new System.Windows.Forms.Button();
             this.lsvTabungan = new System.Windows.Forms.ListView();
-            this.btnKembaliPemasukan = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage4.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -83,17 +83,26 @@
             this.tabPage3.SuspendLayout();
             this.SuspendLayout();
             // 
+            // btnKembaliPemasukan
+            // 
+            this.btnKembaliPemasukan.Location = new System.Drawing.Point(11, 492);
+            this.btnKembaliPemasukan.Name = "btnKembaliPemasukan";
+            this.btnKembaliPemasukan.Size = new System.Drawing.Size(130, 23);
+            this.btnKembaliPemasukan.TabIndex = 12;
+            this.btnKembaliPemasukan.Text = "Kembali";
+            this.btnKembaliPemasukan.UseVisualStyleBackColor = true;
+            // 
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.tabPage4);
             this.tabControl1.Controls.Add(this.tabPage1);
             this.tabControl1.Controls.Add(this.tabPage2);
             this.tabControl1.Controls.Add(this.tabPage3);
-            this.tabControl1.Location = new System.Drawing.Point(12, 65);
+            this.tabControl1.Location = new System.Drawing.Point(1, 1);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(952, 485);
-            this.tabControl1.TabIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(963, 485);
+            this.tabControl1.TabIndex = 11;
             // 
             // tabPage4
             // 
@@ -104,7 +113,7 @@
             this.tabPage4.Controls.Add(this.lsvLaporanPemasukan);
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(944, 459);
+            this.tabPage4.Size = new System.Drawing.Size(955, 459);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Laporan Pemasukan";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -124,7 +133,6 @@
             this.btnExportLaporanPemasukan.TabIndex = 4;
             this.btnExportLaporanPemasukan.Text = "Export";
             this.btnExportLaporanPemasukan.UseVisualStyleBackColor = true;
-            this.btnExportLaporanPemasukan.Click += new System.EventHandler(this.BtnExportLaporanPemasukan_Click);
             // 
             // btnRefreshDataPemasukan
             // 
@@ -134,7 +142,6 @@
             this.btnRefreshDataPemasukan.TabIndex = 3;
             this.btnRefreshDataPemasukan.Text = "Refresh";
             this.btnRefreshDataPemasukan.UseVisualStyleBackColor = true;
-            this.btnRefreshDataPemasukan.Click += new System.EventHandler(this.BtnRefreshDataPemasukan_Click);
             // 
             // btnCariLaporanPemasukan
             // 
@@ -144,7 +151,6 @@
             this.btnCariLaporanPemasukan.TabIndex = 2;
             this.btnCariLaporanPemasukan.Text = "Cari";
             this.btnCariLaporanPemasukan.UseVisualStyleBackColor = true;
-            this.btnCariLaporanPemasukan.Click += new System.EventHandler(this.BtnCariLaporanPemasukan_Click);
             // 
             // lsvLaporanPemasukan
             // 
@@ -188,7 +194,6 @@
             this.btnSimpanPemasukan.TabIndex = 15;
             this.btnSimpanPemasukan.Text = "Simpan";
             this.btnSimpanPemasukan.UseVisualStyleBackColor = true;
-            this.btnSimpanPemasukan.Click += new System.EventHandler(this.BtnSimpanPemasukan_Click);
             // 
             // dtpTanggalPemasukan
             // 
@@ -344,7 +349,6 @@
             this.btnHapusPemasukan.TabIndex = 33;
             this.btnHapusPemasukan.Text = "Hapus";
             this.btnHapusPemasukan.UseVisualStyleBackColor = true;
-            this.btnHapusPemasukan.Click += new System.EventHandler(this.BtnHapusPemasukan_Click);
             // 
             // btnCariPemasukan
             // 
@@ -354,7 +358,6 @@
             this.btnCariPemasukan.TabIndex = 32;
             this.btnCariPemasukan.Text = "Cari";
             this.btnCariPemasukan.UseVisualStyleBackColor = true;
-            this.btnCariPemasukan.Click += new System.EventHandler(this.BtnCariPemasukan_Click);
             // 
             // btnEditPemasukan
             // 
@@ -364,7 +367,6 @@
             this.btnEditPemasukan.TabIndex = 31;
             this.btnEditPemasukan.Text = "Edit";
             this.btnEditPemasukan.UseVisualStyleBackColor = true;
-            this.btnEditPemasukan.Click += new System.EventHandler(this.BtnEditPemasukan_Click);
             // 
             // dtpTanggalEditPemasukan
             // 
@@ -515,7 +517,6 @@
             this.btnExportTabungan.TabIndex = 8;
             this.btnExportTabungan.Text = "Export";
             this.btnExportTabungan.UseVisualStyleBackColor = true;
-            this.btnExportTabungan.Click += new System.EventHandler(this.BtnExportTabungan_Click);
             // 
             // btnRefreshTabungan
             // 
@@ -525,7 +526,6 @@
             this.btnRefreshTabungan.TabIndex = 7;
             this.btnRefreshTabungan.Text = "Refresh";
             this.btnRefreshTabungan.UseVisualStyleBackColor = true;
-            this.btnRefreshTabungan.Click += new System.EventHandler(this.BtnRefreshTabungan_Click);
             // 
             // btnCariTabungan
             // 
@@ -535,7 +535,6 @@
             this.btnCariTabungan.TabIndex = 6;
             this.btnCariTabungan.Text = "Cari";
             this.btnCariTabungan.UseVisualStyleBackColor = true;
-            this.btnCariTabungan.Click += new System.EventHandler(this.BtnCariTabungan_Click);
             // 
             // lsvTabungan
             // 
@@ -546,25 +545,15 @@
             this.lsvTabungan.TabIndex = 0;
             this.lsvTabungan.UseCompatibleStateImageBehavior = false;
             // 
-            // btnKembaliPemasukan
-            // 
-            this.btnKembaliPemasukan.Location = new System.Drawing.Point(22, 556);
-            this.btnKembaliPemasukan.Name = "btnKembaliPemasukan";
-            this.btnKembaliPemasukan.Size = new System.Drawing.Size(119, 23);
-            this.btnKembaliPemasukan.TabIndex = 10;
-            this.btnKembaliPemasukan.Text = "Kembali";
-            this.btnKembaliPemasukan.UseVisualStyleBackColor = true;
-            this.btnKembaliPemasukan.Click += new System.EventHandler(this.BtnKembaliPemasukan_Click);
-            // 
-            // frmPemasukan
+            // FrmPemasukan
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(995, 588);
+            this.ClientSize = new System.Drawing.Size(969, 525);
             this.Controls.Add(this.btnKembaliPemasukan);
             this.Controls.Add(this.tabControl1);
-            this.Name = "frmPemasukan";
-            this.Text = "Pemasukan";
+            this.Name = "FrmPemasukan";
+            this.Text = "FrmPemasukan";
             this.tabControl1.ResumeLayout(false);
             this.tabPage4.ResumeLayout(false);
             this.tabPage4.PerformLayout();
@@ -580,11 +569,15 @@
 
         #endregion
 
+        private System.Windows.Forms.Button btnKembaliPemasukan;
         private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.TabPage tabPage4;
+        private System.Windows.Forms.TextBox txtCariLaporanPemasukan;
+        private System.Windows.Forms.Button btnExportLaporanPemasukan;
+        private System.Windows.Forms.Button btnRefreshDataPemasukan;
+        private System.Windows.Forms.Button btnCariLaporanPemasukan;
+        private System.Windows.Forms.ListView lsvLaporanPemasukan;
         private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.TextBox txtKodeMasukPemasukan;
-        private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnSimpanPemasukan;
         private System.Windows.Forms.DateTimePicker dtpTanggalPemasukan;
         private System.Windows.Forms.TextBox txtKodePengurusPemasukan;
@@ -598,6 +591,9 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox txtKodeMasukPemasukan;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TabPage tabPage2;
         private System.Windows.Forms.Button btnHapusPemasukan;
         private System.Windows.Forms.Button btnCariPemasukan;
         private System.Windows.Forms.Button btnEditPemasukan;
@@ -616,17 +612,10 @@
         private System.Windows.Forms.TextBox txtKodeMasukEditPemasukan;
         private System.Windows.Forms.Label label14;
         private System.Windows.Forms.TabPage tabPage3;
-        private System.Windows.Forms.TabPage tabPage4;
-        private System.Windows.Forms.TextBox txtCariLaporanPemasukan;
-        private System.Windows.Forms.Button btnExportLaporanPemasukan;
-        private System.Windows.Forms.Button btnRefreshDataPemasukan;
-        private System.Windows.Forms.Button btnCariLaporanPemasukan;
-        private System.Windows.Forms.ListView lsvLaporanPemasukan;
         private System.Windows.Forms.TextBox txtCariTabungan;
         private System.Windows.Forms.Button btnExportTabungan;
         private System.Windows.Forms.Button btnRefreshTabungan;
         private System.Windows.Forms.Button btnCariTabungan;
         private System.Windows.Forms.ListView lsvTabungan;
-        private System.Windows.Forms.Button btnKembaliPemasukan;
     }
 }

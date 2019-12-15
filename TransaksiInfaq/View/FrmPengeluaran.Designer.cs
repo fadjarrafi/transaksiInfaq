@@ -1,6 +1,6 @@
-﻿namespace TransaksiInfaq
+﻿namespace TransaksiInfaq.View
 {
-    partial class frmPengeluaran
+    partial class FrmPengeluaran
     {
         /// <summary>
         /// Required designer variable.
@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.btnKembaliPengeluaran = new System.Windows.Forms.Button();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.txtCariLaporanPengeluaran = new System.Windows.Forms.TextBox();
@@ -93,7 +94,6 @@
             this.lsvBarang = new System.Windows.Forms.ListView();
             this.txtKodeBarang = new System.Windows.Forms.TextBox();
             this.label9 = new System.Windows.Forms.Label();
-            this.btnKembaliPengeluaran = new System.Windows.Forms.Button();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -102,6 +102,15 @@
             this.tabPage4.SuspendLayout();
             this.SuspendLayout();
             // 
+            // btnKembaliPengeluaran
+            // 
+            this.btnKembaliPengeluaran.Location = new System.Drawing.Point(12, 461);
+            this.btnKembaliPengeluaran.Name = "btnKembaliPengeluaran";
+            this.btnKembaliPengeluaran.Size = new System.Drawing.Size(119, 23);
+            this.btnKembaliPengeluaran.TabIndex = 14;
+            this.btnKembaliPengeluaran.Text = "Kembali";
+            this.btnKembaliPengeluaran.UseVisualStyleBackColor = true;
+            // 
             // tabControl1
             // 
             this.tabControl1.Controls.Add(this.tabPage1);
@@ -109,11 +118,11 @@
             this.tabControl1.Controls.Add(this.tabPage5);
             this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Controls.Add(this.tabPage4);
-            this.tabControl1.Location = new System.Drawing.Point(12, 81);
+            this.tabControl1.Location = new System.Drawing.Point(1, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
             this.tabControl1.Size = new System.Drawing.Size(966, 455);
-            this.tabControl1.TabIndex = 0;
+            this.tabControl1.TabIndex = 13;
             // 
             // tabPage1
             // 
@@ -145,7 +154,6 @@
             this.btnExportLaporanPengeluaran.TabIndex = 9;
             this.btnExportLaporanPengeluaran.Text = "Export";
             this.btnExportLaporanPengeluaran.UseVisualStyleBackColor = true;
-            this.btnExportLaporanPengeluaran.Click += new System.EventHandler(this.BtnExportLaporanPengeluaran_Click);
             // 
             // btnRefreshDataPengeluaran
             // 
@@ -155,7 +163,6 @@
             this.btnRefreshDataPengeluaran.TabIndex = 8;
             this.btnRefreshDataPengeluaran.Text = "Refresh";
             this.btnRefreshDataPengeluaran.UseVisualStyleBackColor = true;
-            this.btnRefreshDataPengeluaran.Click += new System.EventHandler(this.BtnRefreshDataPengeluaran_Click);
             // 
             // btnCariLaporanPengeluaran
             // 
@@ -165,7 +172,6 @@
             this.btnCariLaporanPengeluaran.TabIndex = 7;
             this.btnCariLaporanPengeluaran.Text = "Cari";
             this.btnCariLaporanPengeluaran.UseVisualStyleBackColor = true;
-            this.btnCariLaporanPengeluaran.Click += new System.EventHandler(this.BtnCariLaporanPengeluaran_Click);
             // 
             // lsvLaporanPengeluaran
             // 
@@ -228,7 +234,6 @@
             this.btnSimpanPengeluaran.TabIndex = 30;
             this.btnSimpanPengeluaran.Text = "Simpan";
             this.btnSimpanPengeluaran.UseVisualStyleBackColor = true;
-            this.btnSimpanPengeluaran.Click += new System.EventHandler(this.BtnSimpanPengeluaran_Click);
             // 
             // dtpTanggalPengeluaran
             // 
@@ -386,7 +391,6 @@
             this.btnHapusPengeluaran.TabIndex = 51;
             this.btnHapusPengeluaran.Text = "Hapus";
             this.btnHapusPengeluaran.UseVisualStyleBackColor = true;
-            this.btnHapusPengeluaran.Click += new System.EventHandler(this.BtnHapusPengeluaran_Click);
             // 
             // btnCariPengeluaran
             // 
@@ -396,7 +400,6 @@
             this.btnCariPengeluaran.TabIndex = 50;
             this.btnCariPengeluaran.Text = "Cari";
             this.btnCariPengeluaran.UseVisualStyleBackColor = true;
-            this.btnCariPengeluaran.Click += new System.EventHandler(this.BtnCariPengeluaran_Click);
             // 
             // txtKodeBarangPengeluaran
             // 
@@ -423,7 +426,6 @@
             this.btnEditPengeluaran.TabIndex = 47;
             this.btnEditPengeluaran.Text = "Edit";
             this.btnEditPengeluaran.UseVisualStyleBackColor = true;
-            this.btnEditPengeluaran.Click += new System.EventHandler(this.BtnEditPengeluaran_Click);
             // 
             // dtpTanggalEditPengeluaran
             // 
@@ -574,7 +576,6 @@
             this.btnExportDetailKeluar.TabIndex = 14;
             this.btnExportDetailKeluar.Text = "Export";
             this.btnExportDetailKeluar.UseVisualStyleBackColor = true;
-            this.btnExportDetailKeluar.Click += new System.EventHandler(this.BtnExportDetailKeluar_Click);
             // 
             // btnRefreshDetailKeluar
             // 
@@ -584,7 +585,6 @@
             this.btnRefreshDetailKeluar.TabIndex = 13;
             this.btnRefreshDetailKeluar.Text = "Refresh";
             this.btnRefreshDetailKeluar.UseVisualStyleBackColor = true;
-            this.btnRefreshDetailKeluar.Click += new System.EventHandler(this.BtnRefreshDetailKeluar_Click);
             // 
             // btnCariDetailKeluar
             // 
@@ -594,7 +594,6 @@
             this.btnCariDetailKeluar.TabIndex = 12;
             this.btnCariDetailKeluar.Text = "Cari";
             this.btnCariDetailKeluar.UseVisualStyleBackColor = true;
-            this.btnCariDetailKeluar.Click += new System.EventHandler(this.BtnCariDetailKeluar_Click);
             // 
             // tsvDetailKeluar
             // 
@@ -636,7 +635,6 @@
             this.btnExportBarang.TabIndex = 18;
             this.btnExportBarang.Text = "Export";
             this.btnExportBarang.UseVisualStyleBackColor = true;
-            this.btnExportBarang.Click += new System.EventHandler(this.BtnExportBarang_Click);
             // 
             // btnRefreshBarang
             // 
@@ -646,7 +644,6 @@
             this.btnRefreshBarang.TabIndex = 17;
             this.btnRefreshBarang.Text = "Refresh";
             this.btnRefreshBarang.UseVisualStyleBackColor = true;
-            this.btnRefreshBarang.Click += new System.EventHandler(this.BtnRefreshBarang_Click);
             // 
             // btnCariBarang
             // 
@@ -656,7 +653,6 @@
             this.btnCariBarang.TabIndex = 16;
             this.btnCariBarang.Text = "Cari";
             this.btnCariBarang.UseVisualStyleBackColor = true;
-            this.btnCariBarang.Click += new System.EventHandler(this.BtnCariBarang_Click);
             // 
             // btnHapusBarang
             // 
@@ -666,7 +662,6 @@
             this.btnHapusBarang.TabIndex = 15;
             this.btnHapusBarang.Text = "Hapus";
             this.btnHapusBarang.UseVisualStyleBackColor = true;
-            this.btnHapusBarang.Click += new System.EventHandler(this.BtnHapusBarang_Click);
             // 
             // btnEditBarang
             // 
@@ -676,7 +671,6 @@
             this.btnEditBarang.TabIndex = 14;
             this.btnEditBarang.Text = "Edit";
             this.btnEditBarang.UseVisualStyleBackColor = true;
-            this.btnEditBarang.Click += new System.EventHandler(this.BtnEditBarang_Click);
             // 
             // btnSimpanBarang
             // 
@@ -686,7 +680,6 @@
             this.btnSimpanBarang.TabIndex = 13;
             this.btnSimpanBarang.Text = "Simpan";
             this.btnSimpanBarang.UseVisualStyleBackColor = true;
-            this.btnSimpanBarang.Click += new System.EventHandler(this.BtnSimpanBarang_Click);
             // 
             // txtHargaBarang
             // 
@@ -745,25 +738,15 @@
             this.label9.TabIndex = 0;
             this.label9.Text = "Kode Barang";
             // 
-            // btnKembaliPengeluaran
-            // 
-            this.btnKembaliPengeluaran.Location = new System.Drawing.Point(16, 542);
-            this.btnKembaliPengeluaran.Name = "btnKembaliPengeluaran";
-            this.btnKembaliPengeluaran.Size = new System.Drawing.Size(119, 23);
-            this.btnKembaliPengeluaran.TabIndex = 12;
-            this.btnKembaliPengeluaran.Text = "Kembali";
-            this.btnKembaliPengeluaran.UseVisualStyleBackColor = true;
-            this.btnKembaliPengeluaran.Click += new System.EventHandler(this.BtnKembaliPengeluaran_Click);
-            // 
-            // frmPengeluaran
+            // FrmPengeluaran
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(990, 578);
+            this.ClientSize = new System.Drawing.Size(978, 495);
             this.Controls.Add(this.btnKembaliPengeluaran);
             this.Controls.Add(this.tabControl1);
-            this.Name = "frmPengeluaran";
-            this.Text = "Pengeluaran";
+            this.Name = "FrmPengeluaran";
+            this.Text = "FrmPengeluaran";
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
@@ -781,17 +764,17 @@
 
         #endregion
 
+        private System.Windows.Forms.Button btnKembaliPengeluaran;
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.Button btnKembaliPengeluaran;
         private System.Windows.Forms.TextBox txtCariLaporanPengeluaran;
         private System.Windows.Forms.Button btnExportLaporanPengeluaran;
         private System.Windows.Forms.Button btnRefreshDataPengeluaran;
         private System.Windows.Forms.Button btnCariLaporanPengeluaran;
         private System.Windows.Forms.ListView lsvLaporanPengeluaran;
-        private System.Windows.Forms.TabPage tabPage3;
-        private System.Windows.Forms.TabPage tabPage4;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.TextBox txtKodeBarangPemasukan;
+        private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Button btnSimpanPengeluaran;
         private System.Windows.Forms.DateTimePicker dtpTanggalPengeluaran;
         private System.Windows.Forms.TextBox txtKodePengurusPengeluaran;
@@ -807,26 +790,6 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox txtFakturPengeluaran;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtKodeBarangPemasukan;
-        private System.Windows.Forms.Label label8;
-        private System.Windows.Forms.TextBox txtCariDetailKeluar;
-        private System.Windows.Forms.Button btnExportDetailKeluar;
-        private System.Windows.Forms.Button btnRefreshDetailKeluar;
-        private System.Windows.Forms.Button btnCariDetailKeluar;
-        private System.Windows.Forms.ListView tsvDetailKeluar;
-        private System.Windows.Forms.Button btnHapusBarang;
-        private System.Windows.Forms.Button btnEditBarang;
-        private System.Windows.Forms.Button btnSimpanBarang;
-        private System.Windows.Forms.TextBox txtHargaBarang;
-        private System.Windows.Forms.TextBox txtNamaBaarang;
-        private System.Windows.Forms.Label label11;
-        private System.Windows.Forms.Label label10;
-        private System.Windows.Forms.ListView lsvBarang;
-        private System.Windows.Forms.TextBox txtKodeBarang;
-        private System.Windows.Forms.Label label9;
-        private System.Windows.Forms.Button btnExportBarang;
-        private System.Windows.Forms.Button btnRefreshBarang;
-        private System.Windows.Forms.Button btnCariBarang;
         private System.Windows.Forms.TabPage tabPage5;
         private System.Windows.Forms.Button btnHapusPengeluaran;
         private System.Windows.Forms.Button btnCariPengeluaran;
@@ -847,5 +810,25 @@
         private System.Windows.Forms.Label label18;
         private System.Windows.Forms.TextBox txtFakturEditPengeluaran;
         private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.TabPage tabPage3;
+        private System.Windows.Forms.TextBox txtCariDetailKeluar;
+        private System.Windows.Forms.Button btnExportDetailKeluar;
+        private System.Windows.Forms.Button btnRefreshDetailKeluar;
+        private System.Windows.Forms.Button btnCariDetailKeluar;
+        private System.Windows.Forms.ListView tsvDetailKeluar;
+        private System.Windows.Forms.TabPage tabPage4;
+        private System.Windows.Forms.Button btnExportBarang;
+        private System.Windows.Forms.Button btnRefreshBarang;
+        private System.Windows.Forms.Button btnCariBarang;
+        private System.Windows.Forms.Button btnHapusBarang;
+        private System.Windows.Forms.Button btnEditBarang;
+        private System.Windows.Forms.Button btnSimpanBarang;
+        private System.Windows.Forms.TextBox txtHargaBarang;
+        private System.Windows.Forms.TextBox txtNamaBaarang;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.ListView lsvBarang;
+        private System.Windows.Forms.TextBox txtKodeBarang;
+        private System.Windows.Forms.Label label9;
     }
 }
