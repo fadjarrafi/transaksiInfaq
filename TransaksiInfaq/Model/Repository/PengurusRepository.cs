@@ -118,7 +118,7 @@ namespace TransaksiInfaq.Model.Repository
             try
             {
                 // Deklarasi perintah SQL
-                string sql = @"select*from Pengurus where Nama like @Nama order by Nama asc";
+                string sql = @"select Kode_Pengurus, Nama, Alamat, No_Telepon from Pengurus where Nama like @Nama order by Nama asc";
 
                 // Membuat objek command menggunakan blok using
                 using (OleDbCommand cmd = new OleDbCommand(sql, _conn))
@@ -139,8 +139,8 @@ namespace TransaksiInfaq.Model.Repository
                             prs.Nama = dtr["Nama"].ToString();
                             prs.Alamat = dtr["Alamat"].ToString();
                             prs.No_Telepon = dtr["No_Telepon"].ToString();
-                            prs.Username = dtr["Username"].ToString();
-                            prs.Password = dtr["Password"].ToString();
+                            //prs.Username = dtr["Username"].ToString();
+                            //prs.Password = dtr["Password"].ToString();
 
                             list.Add(prs);
                         }

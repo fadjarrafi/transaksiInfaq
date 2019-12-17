@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace TransaksiInfaq.Model.Entity
 {
-    class Pengeluaran
+    public class Pengeluaran
     {
         public string No_Faktur { get; set; }
-        public DateTime Tanggal { get; set; }
+        public string Tanggal { get; set; }
         public  string Kode_pengurus { get; set; }
-        public int Total_keluar { get; set; }
+        public string Total_keluar { get; set; }
         public string Keperluan { get; set; }
         public string No_rekening { get; set; }
 
