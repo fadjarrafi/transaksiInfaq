@@ -1,0 +1,118 @@
+InnoDB: using atomic writes.
+2020-01-02 20:14:02 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-01-02 20:14:02 0 [Note] InnoDB: Uses event mutexes
+2020-01-02 20:14:02 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-01-02 20:14:02 0 [Note] InnoDB: Number of pools: 1
+2020-01-02 20:14:02 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-01-02 20:14:02 0 [Note] InnoDB: Initializing buffer pool, total size = 1G, instances = 1, chunk size = 128M
+2020-01-02 20:14:02 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-01-02 20:14:03 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-01-02 20:14:03 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-01-02 20:14:03 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-01-02 20:14:03 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-01-02 20:14:03 0 [Note] InnoDB: 10.4.11 started; log sequence number 61175; transaction id 21
+2020-01-02 20:14:03 0 [Note] InnoDB: Loading buffer pool(s) from C:\Program Files (x86)\MariaDB 10.4\data\ib_buffer_pool
+2020-01-02 20:14:03 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-01-02 20:14:03 0 [Note] InnoDB: Buffer pool(s) load completed at 200102 20:14:03
+2020-01-02 20:14:03 0 [Note] Server socket created on IP: '::'.
+2020-01-02 20:14:04 0 [Note] Reading of all Master_info entries succeeded
+2020-01-02 20:14:04 0 [Note] Added new Master_info '' to hash table
+2020-01-02 20:14:04 0 [Note] C:\Program Files (x86)\MariaDB 10.4\bin\mysqld.exe: ready for connections.
+Version: '10.4.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+InnoDB: using atomic writes.
+2020-01-02 20:47:38 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-01-02 20:47:38 0 [Note] InnoDB: Uses event mutexes
+2020-01-02 20:47:38 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-01-02 20:47:38 0 [Note] InnoDB: Number of pools: 1
+2020-01-02 20:47:38 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-01-02 20:47:38 0 [Note] InnoDB: Initializing buffer pool, total size = 1G, instances = 1, chunk size = 128M
+2020-01-02 20:47:38 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-01-02 20:47:39 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=260051
+2020-01-02 20:47:44 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-01-02 20:47:44 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-01-02 20:47:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-01-02 20:47:44 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-01-02 20:47:44 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-01-02 20:47:44 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 20:47:44 0 [Note] InnoDB: 10.4.11 started; log sequence number 260060; transaction id 278
+2020-01-02 20:47:44 0 [Note] InnoDB: Loading buffer pool(s) from C:\Program Files (x86)\MariaDB 10.4\data\ib_buffer_pool
+2020-01-02 20:47:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-01-02 20:47:45 0 [Note] InnoDB: Buffer pool(s) load completed at 200102 20:47:45
+2020-01-02 20:47:45 0 [Note] Server socket created on IP: '::'.
+2020-01-02 20:47:45 0 [ERROR] Can't start server: Bind on TCP/IP port. Got error: 10048: Only one usage of each socket address (protocol/network address/port) is normally permitted.
+
+2020-01-02 20:47:45 0 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+2020-01-02 20:47:45 0 [ERROR] Aborting
+InnoDB: using atomic writes.
+2020-01-02 20:53:58 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-01-02 20:53:58 0 [Note] InnoDB: Uses event mutexes
+2020-01-02 20:53:58 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-01-02 20:53:58 0 [Note] InnoDB: Number of pools: 1
+2020-01-02 20:53:58 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-01-02 20:53:58 0 [Note] InnoDB: Initializing buffer pool, total size = 1G, instances = 1, chunk size = 128M
+2020-01-02 20:53:58 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-01-02 20:54:00 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-01-02 20:54:00 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-01-02 20:54:00 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-01-02 20:54:00 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-01-02 20:54:00 0 [Note] InnoDB: 10.4.11 started; log sequence number 260069; transaction id 278
+2020-01-02 20:54:00 0 [Note] InnoDB: Loading buffer pool(s) from C:\Program Files (x86)\MariaDB 10.4\data\ib_buffer_pool
+2020-01-02 20:54:00 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-01-02 20:54:00 0 [Note] InnoDB: Buffer pool(s) load completed at 200102 20:54:00
+2020-01-02 20:54:00 0 [Note] Server socket created on IP: '::'.
+2020-01-02 20:54:02 0 [Note] Reading of all Master_info entries succeeded
+2020-01-02 20:54:02 0 [Note] Added new Master_info '' to hash table
+2020-01-02 20:54:02 0 [Note] C:\Program Files (x86)\MariaDB 10.4\bin\mysqld.exe: ready for connections.
+Version: '10.4.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-01-02 22:08:50 13 [Warning] Aborted connection 13 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:10:48 14 [Warning] Aborted connection 14 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:15:34 15 [Warning] Aborted connection 15 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:21:07 16 [Warning] Aborted connection 16 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:24:42 17 [Warning] Aborted connection 17 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:25:34 18 [Warning] Aborted connection 18 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:26:06 19 [Warning] Aborted connection 19 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:26:53 20 [Warning] Aborted connection 20 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:28:08 21 [Warning] Aborted connection 21 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:29:42 22 [Warning] Aborted connection 22 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:32:25 23 [Warning] Aborted connection 23 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:34:25 24 [Warning] Aborted connection 24 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:37:10 25 [Warning] Aborted connection 25 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:38:59 26 [Warning] Aborted connection 26 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+2020-01-02 22:42:02 27 [Warning] Aborted connection 27 to db: 'transaksiinfaq' user: 'root' host: 'localhost' (Got an error reading communication packets)
+InnoDB: using atomic writes.
+2020-01-02 23:35:20 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-01-02 23:35:20 0 [Note] InnoDB: Uses event mutexes
+2020-01-02 23:35:20 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-01-02 23:35:20 0 [Note] InnoDB: Number of pools: 1
+2020-01-02 23:35:22 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-01-02 23:35:23 0 [Note] InnoDB: Initializing buffer pool, total size = 1G, instances = 1, chunk size = 128M
+2020-01-02 23:35:23 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-01-02 23:35:24 0 [Note] InnoDB: Starting crash recovery from checkpoint LSN=337540
+2020-01-02 23:35:27 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-01-02 23:35:27 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-01-02 23:35:27 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-01-02 23:35:27 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-01-02 23:35:27 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:27 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:28 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:28 0 [Note] InnoDB: Waiting for purge to start
+2020-01-02 23:35:28 0 [Note] InnoDB: 10.4.11 started; log sequence number 337549; transaction id 407
+2020-01-02 23:35:28 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-01-02 23:35:28 0 [Note] InnoDB: Loading buffer pool(s) from C:\Program Files (x86)\MariaDB 10.4\data\ib_buffer_pool
+2020-01-02 23:35:30 0 [Note] InnoDB: Buffer pool(s) load completed at 200102 23:35:30
+2020-01-02 23:35:30 0 [Note] Server socket created on IP: '::'.
+2020-01-02 23:35:34 0 [Note] Reading of all Master_info entries succeeded
+2020-01-02 23:35:34 0 [Note] Added new Master_info '' to hash table
+2020-01-02 23:35:34 0 [Note] C:\Program Files (x86)\MariaDB 10.4\bin\mysqld.exe: ready for connections.
+Version: '10.4.11-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution

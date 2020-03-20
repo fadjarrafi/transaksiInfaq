@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 using System.Windows.Forms;
 using TransaksiInfaq.Model.Entity;
-using TransaksiInfaq.Model.Context;
 using TransaksiInfaq.Model.Repository;
+using TransaksiInfaq.Model.Context;
 
 namespace TransaksiInfaq.Controller
 {
@@ -19,7 +19,7 @@ namespace TransaksiInfaq.Controller
             int result = 0;
             if (string.IsNullOrEmpty(pengurus.Kode_Pengurus))
             {
-                MessageBox.Show("Kode Pengurus Harus Diiisi !", "Peringatan ", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                MessageBox.Show("Kode Pengurus Harus Diisi !", "Peringatan ", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 return 0;
             }
 
@@ -28,7 +28,7 @@ namespace TransaksiInfaq.Controller
                 MessageBox.Show("Nama harus diisi !", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 return 0;
             }
-            if (string.IsNullOrEmpty(pengurus.No_Telepon))
+            if (pengurus.No_Telepon == null)
             {
                 MessageBox.Show("No Telepon harus diisi !", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 return 0;
@@ -50,7 +50,7 @@ namespace TransaksiInfaq.Controller
             }
             if (result > 0)
             {
-                MessageBox.Show("Data siswa Pengurus disimpan !", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("Data Pengurus Pengurus disimpan !", "Informasi", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
             else
             {
@@ -73,7 +73,7 @@ namespace TransaksiInfaq.Controller
                 MessageBox.Show("Nama harus diisi !", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 return 0;
             }
-            if (string.IsNullOrEmpty(pengurus.No_Telepon))
+            if (pengurus.No_Telepon == null)
             {
                 MessageBox.Show("No Telepon harus diisi !", "Peringatan", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                 return 0;
@@ -135,20 +135,20 @@ namespace TransaksiInfaq.Controller
             return result;
         }
 
-        public List<Pengurus> ReadByNama(string nama)
+        public List<Pengurus> ReadByNama(string Nama)
         {
             List<Pengurus> list = new List<Pengurus>();
 
             using (DbContext context = new DbContext())
             {
                 _repository = new PengurusRepository(context);
-                list = _repository.ReadByNama(nama);
+                list = _repository.ReadByNama(Nama);
             }
 
             return list;
         }
 
-        /**public List<Pengurus> ReadAll()
+        public List<Pengurus> ReadAll()
         {
             List<Pengurus> list = new List<Pengurus>();
 
@@ -159,18 +159,8 @@ namespace TransaksiInfaq.Controller
             }
 
             return list;
-        }**/
-
-        public Pengurus ReadByKode_Pengurus(string Kode_Pengurus)
-        {
-            Pengurus pengurus = new Pengurus();
-            using (DbContext context = new DbContext())
-            {
-                _repository = new PengurusRepository(context);
-                pengurus = _repository.ReadByKode_Pengurus(Kode_Pengurus);
-            }
-            return pengurus;
         }
+
 
     }
 }

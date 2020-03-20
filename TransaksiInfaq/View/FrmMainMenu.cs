@@ -28,14 +28,14 @@ namespace TransaksiInfaq.View
         private void BtnPemasukan_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FrmPemasukan frmPemasukan = new FrmPemasukan();
+            FrmUtamaPemasukan frmPemasukan = new FrmUtamaPemasukan();
             frmPemasukan.ShowDialog();
         }
 
         private void BtnPengeluaran_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FrmPengeluaran frmPengeluaran = new FrmPengeluaran();
+            FrmUtamaPengeluaran frmPengeluaran = new FrmUtamaPengeluaran();
             frmPengeluaran.ShowDialog();
         }
     }

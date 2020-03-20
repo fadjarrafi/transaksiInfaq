@@ -11,3 +11,144 @@ E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\De
 E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmMainMenu.resources
 E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmPemasukan.resources
 E:\Kuliah\semester 3\pemrograman lanjut\uts\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmPengeluaran.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe.config
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.pdb
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csprojAssemblyReference.cache
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.Properties.Resources.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmDataPengurus.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmMainMenu.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmPemasukan.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmPengeluaran.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.GenerateResource.cache
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.exe
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.pdb
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryDataPengurus.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe.config
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.pdb
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csprojAssemblyReference.cache
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.Properties.Resources.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmDataPengurus.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryDataPengurus.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmMainMenu.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmPemasukan.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmPengeluaran.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.GenerateResource.cache
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.CoreCompileInputs.cache
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.exe
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.pdb
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe.config
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.pdb
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csprojAssemblyReference.cache
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.Properties.Resources.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmDataPengurus.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryDataPengurus.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmMainMenu.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.GenerateResource.cache
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.exe
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.pdb
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryPemasukan.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLogin.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmUtamaPemasukan.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryTabungan.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanPemasukan.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryPengeluaran.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanTabungan.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmUtamaPengeluaran.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanPengeluaran.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryBarang.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanBarang.resources
+D:\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanDetailKeluar.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csprojAssemblyReference.cache
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.Properties.Resources.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmDataPengurus.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryBarang.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryDataPengurus.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryPemasukan.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryTabungan.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanBarang.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanDetailKeluar.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanPengeluaran.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLogin.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmMainMenu.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanPemasukan.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryPengeluaran.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanTabungan.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmUtamaPemasukan.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmUtamaPengeluaran.resources
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.GenerateResource.cache
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.exe
+E:\PemrogPL\PLFP\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.pdb
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe.config
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.pdb
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.Properties.Resources.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmDataPengurus.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryBarang.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryDataPengurus.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryDetailKeluar.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryPemasukan.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryTabungan.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanBarang.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanDetailKeluar.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanPengeluaran.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLogin.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmMainMenu.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanPemasukan.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryPengeluaran.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanTabungan.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmUtamaPemasukan.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmUtamaPengeluaran.resources
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.GenerateResource.cache
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.exe
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.pdb
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\MySqlConnector.dll
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Buffers.dll
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Memory.dll
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\MySqlConnector.xml
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Buffers.xml
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Memory.xml
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.CopyComplete
+D:\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csprojAssemblyReference.cache
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe.config
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.exe
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\TransaksiInfaq.pdb
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\MySqlConnector.dll
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Buffers.dll
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Memory.dll
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\MySqlConnector.xml
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Buffers.xml
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Memory.xml
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csprojAssemblyReference.cache
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.Properties.Resources.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmDataPengurus.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryBarang.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryDataPengurus.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryDetailKeluar.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryPemasukan.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryTabungan.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanBarang.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanDetailKeluar.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanPengeluaran.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLogin.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmMainMenu.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanPemasukan.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmEntryPengeluaran.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmLaporanTabungan.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmUtamaPemasukan.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.View.FrmUtamaPengeluaran.resources
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.GenerateResource.cache
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.CoreCompileInputs.cache
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.csproj.CopyComplete
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.exe
+E:\Kuliah\semester 3\pemrograman lanjut\Final Project\TransaksiInfaq (1)\TransaksiInfaq\TransaksiInfaq\TransaksiInfaq\obj\Debug\TransaksiInfaq.pdb
